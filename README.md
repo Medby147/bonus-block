@@ -123,3 +123,5 @@ bonus-blockd tx staking create-validator \
 > [Twitter](https://twitter.com/bonus_block)
 
 > [Telegram](https://t.me/bonusblock)
+
+> [Docs](https://docs.bonusblock.io)
